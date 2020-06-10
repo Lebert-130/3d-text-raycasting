@@ -11,5 +11,5 @@ Test - 10x10
 
 Recommended spawn coordinates:
 
-Maze - (3,4)
+Maze - (4,3)
 Test - (5,5)
